@@ -5,6 +5,8 @@ using static FitnessApp.Common.EntityValidationConstants.FitnessEvent;
 
 public class AddFitnessEventViewModel
 {
+    public int Id { get; set; }
+
     [Required]
     [MaxLength(TitleMaxLength)]
     [MinLength(TitleMinLength)]
