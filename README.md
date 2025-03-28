@@ -29,6 +29,8 @@ FitnessApp is a modern fitness and wellness application designed to simplify the
 * 👥 View all users and manage their roles.
 * 🔒 Assign or remove roles.
 * ❌ Delete users when necessary.
+### Important Notes
+* 🔑 Default Admin Credentials (for development only) are located in appsetigns.json.
 
 ## Technologies
 #### Backend
@@ -45,7 +47,6 @@ FitnessApp is a modern fitness and wellness application designed to simplify the
 git clone https://github.com/stoyantsiparov/Fitness-App.git
 ```
 * Set up the database connection in appsettings.json.
-* (Admin username and password in appsettings.json).
 * Run database migrations:
 ```bash
 dotnet ef database update
