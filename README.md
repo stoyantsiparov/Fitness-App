@@ -45,6 +45,7 @@ FitnessApp is a modern fitness and wellness application designed to simplify the
 git clone https://github.com/stoyantsiparov/Fitness-App.git
 ```
 * Set up the database connection in appsettings.json.
+* (Admin username and password in appsettings.json).
 * Run database migrations:
 ```bash
 dotnet ef database update
