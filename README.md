@@ -35,7 +35,7 @@ FitnessApp is a modern fitness and wellness application designed to simplify the
 * 🌐 ASP.NET Core for API and business logic.
 * 🛠 Entity Framework Core for database interactions.
 #### Frontend
-* 🎨 Razor Views with HTML, CSS, and Bootstrap for responsive design.
+* 🎨 Razor Views with HTML, CSS, JavaScript and Bootstrap for responsive design.
 #### Database
 * 💾 SQL Server for secure and efficient data storage.
 ## Installation
